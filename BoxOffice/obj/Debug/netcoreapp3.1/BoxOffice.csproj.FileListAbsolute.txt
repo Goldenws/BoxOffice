@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.exe
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.deps.json
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.dll
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.pdb
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.dll
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.pdb
+C:\Users\Roland Strod\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.genruntimeconfig.cache
